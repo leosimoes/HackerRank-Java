@@ -1,4 +1,4 @@
-# HackerRank - Java - Advanced
+# HackerRank - Java - Advanced - MD5
 
 MD5 (algoritmo Message-Digest 5) é uma função hash criptográfica amplamente utilizada
 com um valor de hash de 128 bits. Aqui estão alguns usos comuns para MD5:
@@ -10,10 +10,10 @@ no entanto, a segurança do MD5 foi gravemente comprometida, principalmente pelo
 O CMU Software Engineering Institute considera essencialmente o MD5 como "criptograficamente quebrado e inadequado
 para uso posterior".
 
-Dada uma string alfanumérica, denotando uma senha, calcule e imprima seu valor de criptografia MD5.
+Dada uma string alfanumérica s, denotando uma senha, calcule e imprima seu valor de criptografia MD5.
 
 ## Formato de entrada
-Uma única string alfanumérica denotando .
+Uma única string alfanumérica denotando s.
 
 
 ## Restrições
